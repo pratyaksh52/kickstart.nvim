@@ -17,6 +17,8 @@ A starting point for Neovim that is:
 Kickstart.nvim targets *only* the latest
 ['stable'](https://github.com/neovim/neovim/releases/tag/stable) and latest
 ['nightly'](https://github.com/neovim/neovim/releases/tag/nightly) of Neovim.
+It it recommended to use ['Bob']('https://github.com/MordechaiHadad/bob') to
+install and manage multiple neovim versions or to even install neovim.
 If you are experiencing issues, please make sure you have the latest versions.
 
 ### Install External Dependencies
